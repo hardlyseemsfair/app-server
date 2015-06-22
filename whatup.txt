@@ -1,0 +1,383 @@
+
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150610_004442.jpg
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150610_004356.jpg
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150610_003802.jpg
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150610_003206-1.jpg
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150610_003206.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+Copying / Moving file result: 
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150612_044155.jpg
+Copying / Moving file result: 
+WHATS FileHandler trying to delete: tt
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/tt_20150612_044155.jpg
+Copying / Moving file result: 
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+PushHandler looking at dir tt
+Single user proceeding 
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS FileHandler trying to delete: tt
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/tt_20150612_044155.jpg
+Copying / Moving file result: 
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150612_044155.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+PushHandler looking at dir tt
+Single user proceeding 
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+Group class
+List func
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group class
+List func
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+Group class
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+Copying / Moving file result: 1
+Copying / Moving file pushing student01
+PushHandler looking at dir student01
+Copying / Moving file pushing getting array
+Value null no set Array
+(
+    [0] => gg
+    [1] => tt
+)
+
+Value setArray
+(
+    [0] => gg
+    [1] => tt
+)
+
+Device IDs to send to : Array
+(
+    [0] => APA91bHyJYBiCebLY39BOl8-B1X9FbvZFJrocOybMM-oY5n8jNuTw4Y1G1OZvkx9i5gejduM1ZQ61K6k0guuHKLGKko_4glCbUACF0iXTe_B7eP5hYOPyCkC57gVnqRgRJJX8KGiMZewN8wuH7kKs6_vUXSbTiyFRQ
+)
+
+WHATS FileHandler trying to delete: student01
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/student01/tt_20150610_003206.jpg
+PushHandler looking at dir student01
+Copying / Moving file pushing getting array
+Value null no set Array
+(
+    [0] => gg
+    [1] => tt
+)
+
+Value setArray
+(
+    [0] => gg
+    [1] => tt
+)
+
+Device IDs to send to : Array
+(
+    [0] => APA91bHyJYBiCebLY39BOl8-B1X9FbvZFJrocOybMM-oY5n8jNuTw4Y1G1OZvkx9i5gejduM1ZQ61K6k0guuHKLGKko_4glCbUACF0iXTe_B7eP5hYOPyCkC57gVnqRgRJJX8KGiMZewN8wuH7kKs6_vUXSbTiyFRQ
+)
+
+WHATS FileHandler trying to delete: student01
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/student01/tt_20150612_044155.jpg
+PushHandler looking at dir student01
+Copying / Moving file pushing getting array
+Value null no set Array
+(
+    [0] => gg
+    [1] => tt
+)
+
+Value setArray
+(
+    [0] => gg
+    [1] => tt
+)
+
+Device IDs to send to : Array
+(
+    [0] => APA91bHyJYBiCebLY39BOl8-B1X9FbvZFJrocOybMM-oY5n8jNuTw4Y1G1OZvkx9i5gejduM1ZQ61K6k0guuHKLGKko_4glCbUACF0iXTe_B7eP5hYOPyCkC57gVnqRgRJJX8KGiMZewN8wuH7kKs6_vUXSbTiyFRQ
+)
+
+WHATS FileHandler trying to delete: student01
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/student01/tt_20150610_003802.jpg
+PushHandler looking at dir student01
+Copying / Moving file pushing getting array
+Value null no set Array
+(
+    [0] => gg
+    [1] => tt
+)
+
+Value setArray
+(
+    [0] => gg
+    [1] => tt
+)
+
+Device IDs to send to : Array
+(
+    [0] => APA91bHyJYBiCebLY39BOl8-B1X9FbvZFJrocOybMM-oY5n8jNuTw4Y1G1OZvkx9i5gejduM1ZQ61K6k0guuHKLGKko_4glCbUACF0iXTe_B7eP5hYOPyCkC57gVnqRgRJJX8KGiMZewN8wuH7kKs6_vUXSbTiyFRQ
+)
+
+Copying / Moving file result: 1
+Copying / Moving file pushing student01
+PushHandler looking at dir student01
+Copying / Moving file pushing getting array
+Value null no set Array
+(
+    [0] => gg
+    [1] => tt
+)
+
+Value setArray
+(
+    [0] => gg
+    [1] => tt
+)
+
+Device IDs to send to : Array
+(
+    [0] => APA91bHyJYBiCebLY39BOl8-B1X9FbvZFJrocOybMM-oY5n8jNuTw4Y1G1OZvkx9i5gejduM1ZQ61K6k0guuHKLGKko_4glCbUACF0iXTe_B7eP5hYOPyCkC57gVnqRgRJJX8KGiMZewN8wuH7kKs6_vUXSbTiyFRQ
+)
+
+WHATS FileHandler trying to delete: student01
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/student01/tt_20150612_044155.jpg
+PushHandler looking at dir student01
+Copying / Moving file pushing getting array
+Value null no set Array
+(
+    [0] => gg
+    [1] => tt
+)
+
+Value setArray
+(
+    [0] => gg
+    [1] => tt
+)
+
+Device IDs to send to : Array
+(
+    [0] => APA91bHyJYBiCebLY39BOl8-B1X9FbvZFJrocOybMM-oY5n8jNuTw4Y1G1OZvkx9i5gejduM1ZQ61K6k0guuHKLGKko_4glCbUACF0iXTe_B7eP5hYOPyCkC57gVnqRgRJJX8KGiMZewN8wuH7kKs6_vUXSbTiyFRQ
+)
+
+WHATS FileHandler trying to delete: tt
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/tt_20150612_044155.jpg
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150612_050410.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+Copying / Moving file result: 
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+PushHandler looking at dir tt
+Single user proceeding 
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS FileHandler trying to delete: tt
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/tt_20150612_050500.jpg
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150612_050500.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+Copying / Moving file result: 1
+Copying / Moving file pushing tt
+PushHandler looking at dir tt
+Single user proceeding 
+WHATS FileHandler trying to delete: tt
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/tt_20150612_051319.jpg
+Copying / Moving file result: 1
+Copying / Moving file pushing tt
+PushHandler looking at dir tt
+Single user proceeding 
+WHATS FileHandler trying to delete: tt/Camera
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/tt/Camera/tt_20150612_051319.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+List func
+Group class
+Getting group members
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+Copying / Moving file result: 1
+Copying / Moving file pushing gg
+PushHandler looking at dir gg
+Single user proceeding 
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS FileHandler trying to delete: gg
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/gg/tt_20150612_051602.jpg
+WHATS FileHandler trying to delete: gg
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/gg/tt_20150612_051602-1.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+PushHandler looking at dir gg
+Single user proceeding 
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+WHATS FileHandler trying to delete: gg
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/gg/tt_20150612_051602-1.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/gg/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
+Copying / Moving file result: 1
+Copying / Moving file pushing gg
+PushHandler looking at dir gg
+Single user proceeding 
+WHATS FileHandler trying to delete: gg
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/gg/gg_20150612_051821.jpg
+Copying / Moving file result: 1
+Copying / Moving file pushing gg
+PushHandler looking at dir gg
+Single user proceeding 
+WHATS FileHandler trying to delete: gg
+WHATS HAPPENING HERE trying to delete: C:/xampp/htdocs/directorys/gg/gg_20150612_051821.jpg
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE response for success: {"tag":"register_device","success":0,"error":0,"groups":["student01"]}
+Group Messages JSON : [{"realname":"tt tt","message":"this is a test","created_on":1433933171},{"realname":"gg gg","message":"test","created_on":1433933191},{"realname":"tt tt","message":"ask for help","created_on":1433933201}]
+Group class
+List func
+Group class
+Getting group members
+Group exists: student01
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/tt/camera
+WHATS HAPPENING HERE looking at path: C:/xampp/htdocs/directorys/student01
